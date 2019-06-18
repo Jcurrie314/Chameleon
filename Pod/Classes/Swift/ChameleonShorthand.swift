@@ -131,11 +131,11 @@ Returns a randomly generated flat color object whose alpha value is 1.0.
 
 - returns: A flat UIColor object in the HSB colorspace.
 */
-public func RandomFlatColor() -> UIColor {
-    return UIColor.randomFlat
+public var randomFlat : UIColor {
+    return UIColor.randomFlat()
 }
 
-public func ClearColor() -> UIColor {
+public var clear : UIColor {
     return UIColor.clear
 }
 
