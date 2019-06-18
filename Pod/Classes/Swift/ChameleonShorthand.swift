@@ -141,100 +141,99 @@ public func ClearColor() -> UIColor {
 
 
 // MARK: - Light Shades Shorthand
-
-public func FlatBlack() -> UIColor {
+public var flatBlack : UIColor {
     return UIColor.flatBlack()
 }
 
-public func FlatBlue() -> UIColor {
+public var flatBlue : UIColor {
     return UIColor.flatBlue()
 }
 
-public func FlatBrown() -> UIColor {
+public var flatBrown : UIColor {
     return UIColor.flatBrown()
 }
 
-public func FlatCoffee() -> UIColor {
+public var flatCoffee : UIColor {
     return UIColor.flatCoffee()
 }
 
-public func FlatForestGreen() -> UIColor {
+public var flatForestGreen : UIColor {
 	return UIColor.flatForestGreen()
 }
 
-public func FlatGray() -> UIColor {
+public var flatGray : UIColor {
 	return UIColor.flatGray()
 }
 
-public func FlatGreen() -> UIColor {
+public var flatGreen : UIColor {
 	return UIColor.flatGreen()
 }
 
-public func FlatLime() -> UIColor {
+public var flatLime : UIColor {
 	return UIColor.flatLime()
 }
 
-public func FlatMagenta() -> UIColor {
+public var flatMagenta : UIColor {
 	return UIColor.flatMagenta()
 }
 
-public func FlatMaroon() -> UIColor {
+public var flatMaroon : UIColor {
 	return UIColor.flatMaroon()
 }
 
-public func FlatMint() -> UIColor {
+public var flatMint : UIColor {
 	return UIColor.flatMint()
 }
 
-public func FlatNavyBlue() -> UIColor {
+public var flatNavyBlue : UIColor {
 	return UIColor.flatNavyBlue()
 }
 
-public func FlatOrange() -> UIColor {
+public var flatOrange : UIColor {
 	return UIColor.flatOrange()
 }
 
-public func FlatPink() -> UIColor {
+public var flatPink : UIColor {
 	return UIColor.flatPink()
 }
 
-public func FlatPlum() -> UIColor {
+public var flatPlum : UIColor {
 	return UIColor.flatPlum()
 }
 
-public func FlatPowderBlue() -> UIColor {
+public var flatPowderBlue : UIColor {
 	return UIColor.flatPowderBlue()
 }
 
-public func FlatPurple() -> UIColor {
+public var flatPurple : UIColor {
 	return UIColor.flatPurple()
 }
 
-public func FlatRed() -> UIColor {
+public var flatRed : UIColor {
 	return UIColor.flatRed()
 }
 
-public func FlatSand() -> UIColor {
+public var flatSand : UIColor {
 	return UIColor.flatSand()
 }
 
-public func FlatSkyBlue() -> UIColor {
+public var flatSkyBlue : UIColor {
 	return UIColor.flatSkyBlue()
 }
 
-public func FlatTeal() -> UIColor {
+public var flatTeal : UIColor {
 	return UIColor.flatTeal()
 }
 
-public func FlatWatermelon() -> UIColor {
+public var flatWatermelon : UIColor {
 	return UIColor.flatWatermelon()
 }
 
-public func FlatWhite() -> UIColor {
+public var flatWhite : UIColor {
 	return UIColor.flatWhite()
 }
 
-public func FlatYellow() -> UIColor {
+public var flatYellow : UIColor {
 	return UIColor.flatYellow()
 }
 
